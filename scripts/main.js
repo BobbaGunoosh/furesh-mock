@@ -133,11 +133,6 @@ function appearsOnScroll() {
   // $(window).scrollTop(1); //move scroll to fires inview events
 }
 
-window.scroll({
-  top: 2500, 
-  left: 0, 
-  behavior: 'smooth'
-});
 
 
 /*----------------------------------------------
